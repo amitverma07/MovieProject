@@ -11,7 +11,8 @@ Type the name of the movie in the search bar and hit the submit button. It will 
 
 It fetches the data using API.
 
-![srceen shot](https://raw.githubusercontent.com/amitverma07/spaceships-game/master/moveiss.PNG)
+![srceen shot](https://raw.githubusercontent.com/amitverma07/
+MovieProject/master/moveiss.PNG)
 
 ## Technology Used
 - JavaScript
